@@ -1,4 +1,4 @@
-# 3tier_architecture_terraform
+# 3tier_architecture_AWS
 
 ![3-Tier Architecture](3_tier_architecture.png)
 
